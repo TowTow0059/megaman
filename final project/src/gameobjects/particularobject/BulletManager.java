@@ -1,7 +1,5 @@
 package gameobjects.particularobject;
 
-import gameobjects.particularobject.ParticularObject;
-import gameobjects.particularobject.ParticularObjectManager;
 import states.GameWorldState;
 
 public class BulletManager extends ParticularObjectManager {

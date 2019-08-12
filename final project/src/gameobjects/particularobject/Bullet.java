@@ -1,6 +1,5 @@
 package gameobjects.particularobject;
 
-import gameobjects.particularobject.ParticularObject;
 import states.GameWorldState;
 
 import java.awt.Graphics2D;
